@@ -22,15 +22,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
 output = InlineKeyboardMarkup([
-    [InlineKeyboardButton("Developer", url="https://github.com/WeebTime/"),
-     InlineKeyboardButton("Source", url="https://github.com/WeebTime/Video-Encoder-Bot")]
-])
-
-start = InlineKeyboardMarkup([
-    [InlineKeyboardButton("Developer", url="https://github.com/WeebTime/"),
-     InlineKeyboardButton("Source", url="https://github.com/WeebTime/Video-Encoder-Bot")],
-    [InlineKeyboardButton("Support", url="https://t.me/joinchat/4PQUG5J6aRI3NGQ1"),
-     InlineKeyboardButton("Channel", url="https://t.me/WeebZoneIndia")]
+    [InlineKeyboardButton("🤖 Update Channel", url="https://t.me/tellybots_4u"),
+     InlineKeyboardButton("💬 Support Group", url="https://t.me/tellybots_support")]
 ])
 
 
